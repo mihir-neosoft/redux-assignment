@@ -1,0 +1,12 @@
+{
+    "Products":[
+        {"id":1,"pname":"product 1","description":"product description","price":1200,"quantity":5,"image":"ProductImages/Peach_Vertical.jpg"},
+        {"id":2,"pname":"product 2","description":"product description","price":1300,"quantity":5,"image":"ProductImages/Peach_Vertical1.jpg"},
+        {"id":3,"pname":"product 3","description":"product description","price":1800,"quantity":5,"image":"ProductImages/Peach_Vertical2.jpg"},
+        {"id":4,"pname":"product 4","description":"product description","price":1600,"quantity":5,"image":"ProductImages/Peach_Vertical3.jpg"},
+        {"id":5,"pname":"product 5","description":"product description","price":1400,"quantity":5,"image":"ProductImages/Peach_Vertical4.jpg"},
+        {"id":6,"pname":"product 6","description":"product description","price":1900,"quantity":5,"image":"ProductImages/Peach_Vertical5.jpg"},
+        {"id":7,"pname":"product 7","description":"product description","price":1400,"quantity":5,"image":"ProductImages/Peach_Vertical.jpg"},
+        {"id":8,"pname":"product 8","description":"product description","price":1300,"quantity":5,"image":"ProductImages/Peach_Vertical1.jpg"}
+    ]
+}
